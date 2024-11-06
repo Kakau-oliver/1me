@@ -4,6 +4,6 @@ function mostra resultado ()
   var numero2= 15;
   var resultado= numero1+numero2;
 
-document.getelementBy io('resultado')
+document.getelementBy IO ('resultado')
   interHtml= resultado
 }
